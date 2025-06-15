@@ -37,7 +37,7 @@ nobszram status
 
 ## Configuration
 
-Create or edit `/etc/nobszram/nobszram.conf` (it's self-explanatory):
+Create or edit `/etc/nobszram/nobszram.conf` (it's self-explanatory) as root:
 
 ```ini
 # Enable/disable zram (because sometimes you need an off switch)
